@@ -1,2 +1,1 @@
-# SimpleCache
-Extension methods for System.Runtime.Caching.ObjectCache / MemoryCache with locking mechanism.
+##### Repository is @ https://github.com/mwijnands/SimpleCache. It will be moved here soon.
